@@ -23,4 +23,4 @@
   
 - **Source Code:**
 
-  Only the files that require code modification is submitted. However for the mallocofstructs file, I was not able to make it so you can input multiple words in the title, so if you want to add multiple words don't add a space or use -. 
+  Only the files that require code modification is submitted. However for the mallocofstructs file, I was not able to make it so you can input multiple words in the title, so if you want to add multiple words don't add a space or use - (Example: TheAmazingSpiderMan or The-Amazing-Spider-Man). 
